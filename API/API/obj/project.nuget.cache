@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6dgITAuTOeHiwMza8dnSYCigwIW8B6C1pqXUloPWHHgChOgMyE+URx4IJhx49crkPxiw53xzqlVd1ydeHWqnDQ==",
+  "dgSpecHash": "tcmAqCFNeYvcsp1uNRduID5KuZV4UFwRZwog3qsPTM08BRSyWbm0qpyiwAIAi+SfjuCYZp5QxmBqphjLkyeGPA==",
   "success": true,
-  "projectFilePath": "/Users/xit/Desktop/CRUD/API/API/API.csproj",
+  "projectFilePath": "/Users/xit/Desktop/MyCRUD/API/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/xit/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/xit/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

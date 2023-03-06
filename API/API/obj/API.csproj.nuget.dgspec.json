@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xit/Desktop/CRUD/API/API/API.csproj": {}
+    "/Users/xit/Desktop/MyCRUD/API/API/API.csproj": {}
   },
   "projects": {
-    "/Users/xit/Desktop/CRUD/API/API/API.csproj": {
+    "/Users/xit/Desktop/MyCRUD/API/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xit/Desktop/CRUD/API/API/API.csproj",
+        "projectUniqueName": "/Users/xit/Desktop/MyCRUD/API/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/xit/Desktop/CRUD/API/API/API.csproj",
+        "projectPath": "/Users/xit/Desktop/MyCRUD/API/API/API.csproj",
         "packagesPath": "/Users/xit/.nuget/packages/",
-        "outputPath": "/Users/xit/Desktop/CRUD/API/API/obj/",
+        "outputPath": "/Users/xit/Desktop/MyCRUD/API/API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
